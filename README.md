@@ -2,3 +2,6 @@
 
 To run the model, first create an empty folder titled full and then run a.ipnyb and LModel.ipnyb in order
 
+Pan-Tomkins algorithm utilised sourced from c-labpl/qrs_detector
+
+
